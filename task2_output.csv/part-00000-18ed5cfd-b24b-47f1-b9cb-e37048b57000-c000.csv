@@ -1,0 +1,5 @@
+location,avg_temperature,avg_humidity
+BuildingB_Floor2,25.3,54.5
+BuildingA_Floor1,25.1,54.7
+BuildingB_Floor1,24.9,54.8
+BuildingA_Floor2,24.7,55.8
